@@ -6,7 +6,7 @@ This repository contains code and resources for application of transformers in m
 
 2. `data`: store any necessary data files required for training models. This could include datasets, preprocessed data, or any other data-related resources.
 3. `notebooks`: contains Jupyter notebooks that showcase the step-by-step process of using functions in `src`. These notebooks are meant to provide interactive examples, tutorials, and documentation for using the code in the `src` folder.
-4. `models`: save trained models and model weights. 
+4. `model`: save trained models and model weights. 
 
 ## Getting Started
 
@@ -24,9 +24,6 @@ Feel free to contribute, open issues, or submit pull requests if you have any im
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Note
-The submitted code is contained in project.py. 
-Final Score: 90%
 
 ## Special Thanks
 Data from [Edgar et al]([https://github.com/DavidAkinpelu](https://github.com/edgarsmdn/GH-GNN/blob/main/data/raw/Brouwer_2021.csv)https://github.com/edgarsmdn/GH-GNN/blob/main/data/raw/Brouwer_2021.csv) for the assistance during the project.
