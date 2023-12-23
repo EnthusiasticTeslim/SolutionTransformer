@@ -1,3 +1,6 @@
+
+# ignore large files
 *pth
 *pt
 *bin
+*model.safetensors
