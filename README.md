@@ -24,7 +24,6 @@ Feel free to contribute, open issues, or submit pull requests if you have any im
 
 This project is licensed under the [MIT License](LICENSE).
 
-
 ## Special Thanks
 Data from [Edgar et al]([https://github.com/DavidAkinpelu](https://github.com/edgarsmdn/GH-GNN/blob/main/data/raw/Brouwer_2021.csv)https://github.com/edgarsmdn/GH-GNN/blob/main/data/raw/Brouwer_2021.csv) for the assistance during the project.
 
